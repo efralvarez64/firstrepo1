@@ -1,1 +1,3 @@
 Another file from local repo
+A new modification
+Another modification from DEV1
